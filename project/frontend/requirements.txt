@@ -1,0 +1,5 @@
+streamlit==1.5.0
+requests==2.26.0
+pip uninstall werkzeug
+pip install werkzeug==2.2.2
+
