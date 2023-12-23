@@ -1,5 +1,3 @@
-# Azure Deployment Guide
-This guide outlines the steps to create various resources in Azure using the Azure Portal.
 
 # Project StreamPulse
 For an application that utilizes Streamlit for real-time data visualization.
